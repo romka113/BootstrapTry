@@ -1,0 +1,10 @@
+.carousel-inner div img{
+    object-position: center;
+    object-fit: fill;
+    height: 100%;
+    overflow: hidden;
+}
+.nomargin{
+    margin: 0;
+
+}
